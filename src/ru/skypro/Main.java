@@ -22,7 +22,7 @@ public class Main {
 int c = 0;
   for (c = 0; c <= 2100; c = c + 79){
       if (c > 1822)
-          System.out.println(c + " year");
+          System.out.println(c + " year ");
       }
 
 }
